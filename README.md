@@ -1,4 +1,4 @@
-# boiler-react-redax
+# boiler-react-redux
 
 Ejected CRA
 
