@@ -2,7 +2,6 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://leotoni.github.io/sendsay-test-app/",
   "dependencies": {
     "@babel/core": "7.7.4",
     "@svgr/webpack": "4.3.3",
